@@ -1,4 +1,4 @@
-<img src="" align="left" width="336px" height="188px"/>
+<img src="https://github.com/Evgeniu603/website.github.io/blob/main/Інтернет-магазин/лого-3.png" align="left" width="128px" height="128px"/>
 
 <img align="left" width="0" height="192px" hspace="10"/>
 
