@@ -8,8 +8,8 @@
 > 
 > «Текст-цель задания» 
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA]()
+![Java]()
 
 Текст
 
