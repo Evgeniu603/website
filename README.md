@@ -39,12 +39,11 @@
 <p align="center"><img src="YOURIMAGE" width="720px" height="520px"/><p/>
 <p align="center">Рисунок 1.1. – Текст</p>
 
-```
+
 
 ## Переглянути сайт  
 
-[<img src=https://інтеренет-магазин.nicepage.io/Головна-сторінка.html>](LINK)  
-<p align="center"><img src="QRCODE"/></p>
+!(https://інтеренет-магазин.nicepage.io/Головна-сторінка.html)
 
 
 
