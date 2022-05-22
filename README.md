@@ -43,7 +43,7 @@
 
 ## Переглянути сайт  
 
-[<img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/download-1915749__480.png" width="64px" height="64px"/>](LINK)  
+[<img src=https://інтеренет-магазин.nicepage.io/Головна-сторінка.html>](LINK)  
 <p align="center"><img src="QRCODE"/></p>
 
 
