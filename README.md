@@ -39,12 +39,6 @@
 <p align="center"><img src="YOURIMAGE" width="720px" height="520px"/><p/>
 <p align="center">Рисунок 1.1. – Текст</p>
 
-
-## Результат
-
-Текст.
-
-
 ```
 
 ## Переглянути сайт  
