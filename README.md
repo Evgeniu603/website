@@ -18,7 +18,7 @@
 
 ## Діаграма прецендентів
 
-https://github.com/Evgeniu603/website.github.io/blob/main/Інтернет-магазин/Діаграма.jpg
+<img src="https://github.com/Evgeniu603/website.github.io/blob/main/Інтернет-магазин/Діаграма.jpg">
 
 <p align="center"><img src="YOURIMAGE" width="720px" height="520px"/><p/>
 
