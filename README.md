@@ -16,34 +16,19 @@
 
 <br>
 
-## Середовище розробки
-
-Nicepage.  
-Основні переваги:
--	Зручний інтерфейс;
-- ;
--	текст;
--	текст;
--	текст.
+## Діаграма прецендентів
 
 
-## Модель проектування
-
-Текст.
-
-
-## Архітектура системи
-
-Текст , яку зображено на рисунку 1.1
 
 <p align="center"><img src="YOURIMAGE" width="720px" height="520px"/><p/>
 <p align="center">Рисунок 1.1. – Текст</p>
 
-
+```
 
 ## Переглянути сайт  
 
-(https://інтеренет-магазин.nicepage.io/Головна-сторінка.html)
+[<img src="https://github.com/KyshynetsVlad/Poltava/blob/main/Practic_Interface/download-1915749__480.png" width="64px" height="64px"/>](LINK)  
+<p align="center"><img src="QRCODE"/></p>
 
 
 
