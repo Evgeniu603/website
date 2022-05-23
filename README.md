@@ -5,8 +5,6 @@
 > ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7F7F7&lines=Мисливство+та+Рибальство)
 > 
 > «Переддипломна практика» 
-> 
-> «Текст-цель задания» 
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,11 +14,6 @@
 
 <br>
 
-## Діаграма прецендентів
-
-<img src="https://github.com/Evgeniu603/website.github.io/blob/main/Інтернет-магазин/Діаграма.jpg">
-
 ## Переглянути сайт  
 
 https://інтеренет-магазин.nicepage.io/Головна-сторінка.html
-
